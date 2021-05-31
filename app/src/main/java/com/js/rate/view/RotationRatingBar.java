@@ -1,4 +1,4 @@
-package com.datdb.rate.view;
+package com.js.rate.view;
 
 import android.content.Context;
 import android.os.Handler;
@@ -8,7 +8,7 @@ import android.view.animation.AnimationUtils;
 
 import androidx.annotation.Nullable;
 
-import com.datdb.rate.R;
+import com.js.rate.R;
 
 
 public class RotationRatingBar extends BaseRatingBar {

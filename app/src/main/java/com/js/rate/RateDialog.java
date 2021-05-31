@@ -1,4 +1,4 @@
-package com.datdb.rate;
+package com.js.rate;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -16,8 +16,8 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.datdb.rate.view.BaseRatingBar;
-import com.datdb.rate.view.RotationRatingBar;
+import com.js.rate.view.BaseRatingBar;
+import com.js.rate.view.RotationRatingBar;
 
 
 public class RateDialog extends Dialog {

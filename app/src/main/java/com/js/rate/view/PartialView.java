@@ -1,4 +1,4 @@
-package com.datdb.rate.view;
+package com.js.rate.view;
 
 import android.content.Context;
 import android.graphics.drawable.ClipDrawable;

@@ -1,4 +1,4 @@
-package com.datdb.rate;
+package com.js.rate;
 
 import android.content.Context;
 import android.graphics.Typeface;

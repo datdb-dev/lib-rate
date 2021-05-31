@@ -1,4 +1,4 @@
-package com.datdb.rate.view;
+package com.js.rate.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -13,7 +13,7 @@ import androidx.annotation.DrawableRes;
 import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
 
-import com.datdb.rate.R;
+import com.js.rate.R;
 
 import java.util.ArrayList;
 import java.util.List;
