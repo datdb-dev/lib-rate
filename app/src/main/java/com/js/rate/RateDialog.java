@@ -52,10 +52,10 @@ public class RateDialog extends Dialog {
         imageIcon = (ImageView) findViewById(R.id.img_icon_app);
         rateBar = (RotationRatingBar) findViewById(R.id.simpleRatingBar);
 
-        btnOk.setTypeface(FontUntil.getTypeface("fontsapp/" + "ios.otf", context));
-        btnNotnow.setTypeface(FontUntil.getTypeface("fontsapp/" + "ios.otf", context));
-        txtTitle.setTypeface(FontUntil.getTypeface("fontsapp/" + "ios.otf", context));
-        txtAppName.setTypeface(FontUntil.getTypeface("fontsapp/" + "ios_semi_bold.otf", context));
+//        btnOk.setTypeface(FontUntil.getTypeface("fontsapp/" + "ios.otf", context));
+//        btnNotnow.setTypeface(FontUntil.getTypeface("fontsapp/" + "ios.otf", context));
+//        txtTitle.setTypeface(FontUntil.getTypeface("fontsapp/" + "ios.otf", context));
+//        txtAppName.setTypeface(FontUntil.getTypeface("fontsapp/" + "ios_semi_bold.otf", context));
         txtAppName.setText(context.getResources().getString(R.string.app_name));
         imageIcon.setImageResource(R.mipmap.ic_launcher);
         btnOk.setOnClickListener(new View.OnClickListener() {
